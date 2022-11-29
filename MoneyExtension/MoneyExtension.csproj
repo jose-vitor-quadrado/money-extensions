@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensionsJVQ</PackageId>
+    <PackageId>bb4d362aee3f4d0b94f1542d884dace7MoneyExtensions</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>SherbXD</Authors>
