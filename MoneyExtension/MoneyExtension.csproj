@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>bb4d362aee3f4d0b94f1542d884dace7MoneyExtensions</PackageId>
+    <PackageId>moneybb4d362aee3f4d0b94f1542d884dace7jvquadrado</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>SherbXD</Authors>
@@ -17,9 +17,10 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
-    <Title>MoneyExtensions</Title>
+    <Title>moneybb4d362aee3f4d0b94f1542d884dace7jvquadrado</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
+  
   <ItemGroup>
     <None Include="../Media/icon.png" Pack="true" PackagePath="/"/>
   </ItemGroup>
